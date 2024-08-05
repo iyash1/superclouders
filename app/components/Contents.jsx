@@ -10,6 +10,9 @@ const Content = () => {
                 height={500} 
                 alt="art"/>
             </div>
+            <strong>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam reiciendis, velit praesentium doloribus fugit labore, neque esse alias et accusamus eligendi aliquid iusto! Voluptas quibusdam dolorum dolores aspernatur soluta deserunt!
+            </strong>
             <p>
                 Amet exercitation reprehenderit duis ea ipsum fugiat aliquip voluptate sit nisi laborum magna aliqua consectetur. Elit labore sunt non aute labore veniam sit ut excepteur amet ad. Deserunt nisi enim sunt fugiat. Elit excepteur pariatur dolore mollit. Anim laborum do elit laborum.
             </p>
