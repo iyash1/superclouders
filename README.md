@@ -1,6 +1,6 @@
-# Project : Demo to host webpages on Github Pages
+# Project : Demo to host webpages Github, AWS S3, CloudFront, Route 53
 ### Purpose
-This project is built to host a simple webpage on Github pages in an automated fashion using Github Actions.
+This project is built to host a simple webpage on AWS using S3 and CloudFront. The CI/CD pipeline is hosted on Github using Github Actions.
 
 ### Setup
 1. Clone the repo and `cd` into the directory.
